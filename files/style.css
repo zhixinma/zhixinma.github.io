@@ -43,6 +43,8 @@ H1 {
 H2 {
     FONT-SIZE: 20px;
     PADDING-TOP: 15px;
+    MARGIN: 17px;
+    MARGIN-LEFT: 0px;
     display: inline-block;
 }
 
@@ -56,10 +58,10 @@ P {
 
 TABLE {
     MARGIN-BOTTOM: 10px;
-    FONT-SIZE: 13px;
+    FONT-SIZE: 15px;
     BORDER-COLLAPSE: collapse;
     TEXT-ALIGN: left;
-    WIDTH: 680px;
+    WIDTH: 750px;
     BACKGROUND-COLOR: #f6fbfe
 }
 
@@ -121,7 +123,9 @@ IMG {
 }
 
 #profile {
-    FLOAT: left;
+    FONT-SIZE: 16px;
+    WIDTH: 770px;
+    TEXT-ALIGN:justify;
     CLEAR: both
 }
 
@@ -200,4 +204,9 @@ A.thumbnail:hover {
 .inbox {
     PADDING-BOTTOM: 7px;
     MARGIN-TOP: 5px
+}
+
+#clustrmaps {
+    height: 50%;
+    width: 50%
 }
