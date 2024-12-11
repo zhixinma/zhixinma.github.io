@@ -31,6 +31,12 @@ TABLE {
 .title {
     FONT-WEIGHT: bold
 }
+
+.align_right{
+    float:right;
+    margin-right: 90px;
+}
+
 TABLE A {
     COLOR: black; TEXT-DECORATION: none
 }
